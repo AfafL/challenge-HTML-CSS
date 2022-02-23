@@ -1,0 +1,65 @@
+*{
+    font-family:architects daughter;
+   
+ 
+    
+}
+.container{
+     display: inline;
+    text-align: center;
+    height: 100px;
+  
+}
+ul{
+     display:inline-flex;
+     
+    text-align: center;
+    justify-content: center;
+}
+nav ul li{
+    
+    text-align: center;
+    list-style-type:none;
+    margin: 20px;;
+    
+   
+}
+h1{
+    font-family:fantasy ;
+    font-size: 18px;
+}
+a{
+   text-decoration: none;
+   text-align: center;
+   color: black;
+    margin: 10px;
+    font-size: 18px;
+}
+.first{
+    margin:40px;
+}
+
+
+.inp{
+    display:block;
+    text-align: center;
+    margin-left:40%; ;
+}
+img{
+    display:inline-flex;
+    border-radius: 3px ;
+    opacity: 0.5;
+}
+img:hover {
+    opacity: 1.0;
+  }
+
+
+
+.elelm1{
+    display: block;
+    text-align: center;
+}
+.elem2{
+    display:inline-block;
+}
