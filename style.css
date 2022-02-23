@@ -1,9 +1,15 @@
-*{
+
+body {
+    background-color: rgb(233, 233, 219);
     font-family:architects daughter;
-   
- 
     
-}
+  }
+  
+  @media only screen and (max-width: 600px) {
+    body {
+      background-color: rgb(50, 74, 82);
+    }
+  }
 .container{
      display: inline;
     text-align: center;
